@@ -376,486 +376,7 @@ a=int(input("enter number2:"))
 c=b+a
 print("addition",c)
 
-a=int(input("enter number 1:"))
-b=int(input("enter number2:"))
-c=a+b
-print("addition",c)
 
-a=int(input("enter number 1:"))
-b=int(input("enter number2:"))
-c=a+b
-print("addition",c)
-
-a=int(input("enter number 1:"))
-b=int(input("enter number2:"))
-c=a+b
-print("addition",c)
-
-a=int(input("enter number 1:"))
-b=int(input("enter number2:"))
-c=a+b
-print("addition",c)
-
-a=int(input("enter number 1:"))
-b=int(input("enter number2:"))
-c=a+b
-print("addition",c)
-
-a=int(input("enter number 1:"))
-b=int(input("enter number2:"))
-c=a+b
-print("addition",c)
-
-a=int(input("enter number 1:"))
-b=int(input("enter number2:"))
-c=a+b
-print("addition",c)
-
-a=int(input("enter number 1:"))
-b=int(input("enter number2:"))
-c=a+b
-print("addition",c)
-
-a=int(input("enter number 1:"))
-b=int(input("enter number2:"))
-c=a+b
-print("addition",c)
-
-a=int(input("enter number 1:"))
-b=int(input("enter number2:"))
-c=a+b
-print("addition",c)
-
-a=int(input("enter number 1:"))
-b=int(input("enter number2:"))
-c=a+b
-print("addition",c)
-
-a=int(input("enter number 1:"))
-b=int(input("enter number2:"))
-c=a+b
-print("addition",c)
-
-a=int(input("enter number 1:"))
-b=int(input("enter number2:"))
-c=a+b
-print("addition",c)
-
-a=int(input("enter number 1:"))
-b=int(input("enter number2:"))
-c=a+b
-print("addition",c)
-
-a=int(input("enter number 1:"))
-b=int(input("enter number2:"))
-c=a+b
-print("addition",c)
-
-a=int(input("enter number 1:"))
-b=int(input("enter number2:"))
-c=a+b
-print("addition",c)
-
-a=int(input("enter number 1:"))
-b=int(input("enter number2:"))
-c=a+b
-print("addition",c)
-
-a=int(input("enter number 1:"))
-b=int(input("enter number2:"))
-c=a+b
-print("addition",c)
-
-a=int(input("enter number 1:"))
-b=int(input("enter number2:"))
-c=a+b
-print("addition",c)
-
-a=int(input("enter number 1:"))
-b=int(input("enter number2:"))
-c=a+b
-print("addition",c)
-
-a=int(input("enter number 1:"))
-b=int(input("enter number2:"))
-c=a+b
-print("addition",c)
-
-a=int(input("enter number 1:"))
-b=int(input("enter number2:"))
-c=a+b
-print("addition",c)
-
-a=int(input("enter number 1:"))
-b=int(input("enter number2:"))
-c=a+b
-print("addition",c)
-
-a=int(input("enter number 1:"))
-b=int(input("enter number2:"))
-c=a+b
-print("addition",c)
-
-a=int(input("enter number 1:"))
-b=int(input("enter number2:"))
-c=a+b
-print("addition",c)
-
-a=int(input("enter number 1:"))
-b=int(input("enter number2:"))
-c=a+b
-print("addition",c)
-
-a=int(input("enter number 1:"))
-b=int(input("enter number2:"))
-c=a+b
-print("addition",c)
-
-a=int(input("enter number 1:"))
-b=int(input("enter number2:"))
-c=a+b
-print("addition",c)
-
-a=int(input("enter number 1:"))
-b=int(input("enter number2:"))
-c=a+b
-print("addition",c)
-
-a=int(input("enter number 1:"))
-b=int(input("enter number2:"))
-c=a+b
-print("addition",c)
-
-a=int(input("enter number 1:"))
-b=int(input("enter number2:"))
-c=a+b
-print("addition",c)
-
-a=int(input("enter number 1:"))
-b=int(input("enter number2:"))
-c=a+b
-print("addition",c)
-
-a=int(input("enter number 1:"))
-b=int(input("enter number2:"))
-c=a+b
-print("addition",c)
-
-a=int(input("enter number 1:"))
-b=int(input("enter number2:"))
-c=a+b
-print("addition",c)
-
-a=int(input("enter number 1:"))
-b=int(input("enter number2:"))
-c=a+b
-print("addition",c)
-
-a=int(input("enter number 1:"))
-b=int(input("enter number2:"))
-c=a+b
-print("addition",c)
-
-a=int(input("enter number 1:"))
-b=int(input("enter number2:"))
-c=a+b
-print("addition",c)
-
-a=int(input("enter number 1:"))
-b=int(input("enter number2:"))
-c=a+b
-print("addition",c)
-
-a=int(input("enter number 1:"))
-b=int(input("enter number2:"))
-c=a+b
-print("addition",c)
-
-a=int(input("enter number 1:"))
-b=int(input("enter number2:"))
-c=a+b
-print("addition",c)
-
-a=int(input("enter number 1:"))
-b=int(input("enter number2:"))
-c=a+b
-print("addition",c)
-
-a=int(input("enter number 1:"))
-b=int(input("enter number2:"))
-c=a+b
-print("addition",c)
-
-a=int(input("enter number 1:"))
-b=int(input("enter number2:"))
-c=a+b
-print("addition",c)
-
-a=int(input("enter number 1:"))
-b=int(input("enter number2:"))
-c=a+b
-print("addition",c)
-
-a=int(input("enter number 1:"))
-b=int(input("enter number2:"))
-c=a+b
-print("addition",c)
-
-a=int(input("enter number 1:"))
-b=int(input("enter number2:"))
-c=a+b
-print("addition",c)
-a=int(input("enter number 1:"))
-b=int(input("enter number2:"))
-c=a+b
-print("addition",c)
-
-a=int(input("enter number 1:"))
-b=int(input("enter number2:"))
-c=a+b
-print("addition",c)
-
-a=int(input("enter number 1:"))
-b=int(input("enter number2:"))
-c=a+b
-print("addition",c)
-
-a=int(input("enter number 1:"))
-b=int(input("enter number2:"))
-c=a+b
-print("addition",c)
-
-a=int(input("enter number 1:"))
-b=int(input("enter number2:"))
-c=a+b
-print("addition",c)
-
-a=int(input("enter number 1:"))
-b=int(input("enter number2:"))
-c=a+b
-print("addition",c)
-
-a=int(input("enter number 1:"))
-b=int(input("enter number2:"))
-c=a+b
-print("addition",c)
-
-a=int(input("enter number 1:"))
-b=int(input("enter number2:"))
-c=a+b
-print("addition",c)
-
-a=int(input("enter number 1:"))
-b=int(input("enter number2:"))
-c=a+b
-print("addition",c)
-
-a=int(input("enter number 1:"))
-b=int(input("enter number2:"))
-c=a+b
-print("addition",c)
-
-a=int(input("enter number 1:"))
-b=int(input("enter number2:"))
-c=a+b
-print("addition",c)
-
-
-a=int(input("enter number 1:"))
-b=int(input("enter number2:"))
-c=a+b
-print("addition",c)
-
-a=int(input("enter number 1:"))
-b=int(input("enter number2:"))
-c=a+b
-print("addition",c)
-
-a=int(input("enter number 1:"))
-b=int(input("enter number2:"))
-c=a+b
-print("addition",c)
-
-a=int(input("enter number 1:"))
-b=int(input("enter number2:"))
-c=a+b
-print("addition",c)
-
-a=int(input("enter number 1:"))
-b=int(input("enter number2:"))
-c=a+b
-print("addition",c)
-
-a=int(input("enter number 1:"))
-b=int(input("enter number2:"))
-c=a+b
-print("addition",c)
-
-a=int(input("enter number 1:"))
-b=int(input("enter number2:"))
-c=a+b
-print("addition",c)
-
-a=int(input("enter number 1:"))
-b=int(input("enter number2:"))
-c=a+b
-print("addition",c)
-
-a=int(input("enter number 1:"))
-b=int(input("enter number2:"))
-c=a+b
-print("addition",c)
-
-a=int(input("enter number 1:"))
-b=int(input("enter number2:"))
-c=a+b
-print("addition",c)
-
-a=int(input("enter number 1:"))
-b=int(input("enter number2:"))
-c=a+b
-print("addition",c)
-
-a=int(input("enter number 1:"))
-b=int(input("enter number2:"))
-c=a+b
-print("addition",c)
-
-a=int(input("enter number 1:"))
-b=int(input("enter number2:"))
-c=a+b
-print("addition",c)
-
-a=int(input("enter number 1:"))
-b=int(input("enter number2:"))
-c=a+b
-print("addition",c)
-
-a=int(input("enter number 1:"))
-b=int(input("enter number2:"))
-c=a+b
-print("addition",c)
-
-a=int(input("enter number 1:"))
-b=int(input("enter number2:"))
-c=a+b
-print("addition",c)
-
-a=int(input("enter number 1:"))
-b=int(input("enter number2:"))
-c=a+b
-print("addition",c)
-
-a=int(input("enter number 1:"))
-b=int(input("enter number2:"))
-c=a+b
-print("addition",c)
-
-a=int(input("enter number 1:"))
-b=int(input("enter number2:"))
-c=a+b
-print("addition",c)
-
-a=int(input("enter number 1:"))
-b=int(input("enter number2:"))
-c=a+b
-print("addition",c)
-
-a=int(input("enter number 1:"))
-b=int(input("enter number2:"))
-c=a+b
-print("addition",c)
-
-a=int(input("enter number 1:"))
-b=int(input("enter number2:"))
-c=a+b
-print("addition",c)
-
-a=int(input("enter number 1:"))
-b=int(input("enter number2:"))
-c=a+b
-print("addition",c)
-
-a=int(input("enter number 1:"))
-b=int(input("enter number2:"))
-c=a+b
-print("addition",c)
-
-a=int(input("enter number 1:"))
-b=int(input("enter number2:"))
-c=a+b
-print("addition",c)
-
-a=int(input("enter number 1:"))
-b=int(input("enter number2:"))
-c=a+b
-print("addition",c)
-
-a=int(input("enter number 1:"))
-b=int(input("enter number2:"))
-c=a+b
-print("addition",c)
-
-a=int(input("enter number 1:"))
-b=int(input("enter number2:"))
-c=a+b
-print("addition",c)
-
-a=int(input("enter number 1:"))
-b=int(input("enter number2:"))
-c=a+b
-print("addition",c)
-
-a=int(input("enter number 1:"))
-b=int(input("enter number2:"))
-c=a+b
-print("addition",c)
-
-a=int(input("enter number 1:"))
-b=int(input("enter number2:"))
-c=a+b
-print("addition",c)
-
-a=int(input("enter number 1:"))
-b=int(input("enter number2:"))
-c=a+b
-print("addition",c)
-
-a=int(input("enter number 1:"))
-b=int(input("enter number2:"))
-c=a+b
-print("addition",c)
-
-a=int(input("enter number 1:"))
-b=int(input("enter number2:"))
-c=a+b
-print("addition",c)
-
-a=int(input("enter number 1:"))
-b=int(input("enter number2:"))
-c=a+b
-print("addition",c)
-
-a=int(input("enter number 1:"))
-b=int(input("enter number2:"))
-c=a+b
-print("addition",c)
-
-a=int(input("enter number 1:"))
-b=int(input("enter number2:"))
-c=a+b
-print("addition",c)
-
-a=int(input("enter number 1:"))
-b=int(input("enter number2:"))
-c=a+b
-print("addition",c)
-
-
-a=int(input("enter number 1:"))
-b=int(input("enter number2:"))
-c=a+b
-print("addition",c)
 
 a=int(input("enter number 1:"))
 b=int(input("enter number2:"))
@@ -1092,9 +613,1001 @@ a = lambda z:print(z**2)
 a(8)
 
 
+print("-----------make number pyramids-------------------")
+
+rows = 6
+for i in range(rows):
+    for j in range(i):
+        print(i, end=' ')
+    print('')
+
+print("---------------number pyramids-------------")
+
+rows = 5
+for i in range(1, rows+1):
+    for j in range(1, i+1):
+        print(j, end=' ')
+    print('')
+
+print("--------------------------pyramids------------------")
+
+rows = 5
+a = 0
+for i in range(rows,0,-1):
+    a +=1
+    for j in range(1,i+1):
+        print(a,end='')
+        print('\r')
+
+print('------Inverted Pyramid pattern with the same digit-----------')
+
+rows=5
+a = rows
+for i in range(rows,0,-1):
+    for j in range(0, i):
+        print(a, end=' ')
+    print("\r")
+
+print("--Reverse Pyramid of Numbers---------------")
+
+rows = 6
+for i in range(1,rows):
+    for j in range(i,0,-1):
+        print(j,end='')
+        print(" ")
+
+print("--------------string methods-------------")
+
+s = 'welcomeworldgoodmorning'
+
+print(s[-1::-4])
+print(s[-1::-2])
+print(s[-1::-5])
+
+print("--------------reverse the element using slicing methid----")
+
+s = "welcome python language"
+a = (s[-1::-1])
+print(a)
+b = (a[-1::-1])
+print(b)
+print("-----------len method-----------")
+s = "welcome python language"
+a = len(s)
+print(a)
+for i in range(a):
+    print(i)
+
+x = "shinu"
+a = "hello wrold"
+b = a.replace(a,x)
+print("b:",b)
+
+a = "good day welcome python langauge"
+old = "good day"
+new = "good morning"
+b = a.replace(old,new)
+print(a)
+print(b)
+
+
+print("------------class and object program------------")
+
+#program 1:
+
+class student:
+    #the below block is define attribute
+    def __init__(self):
+        self.name = "ganesh"
+        self.age = 19
+        self.Class = "12th"
+        #the block is define method
+    def display(self):
+        print("my name is",self.name)
+        print("my age is",self.age)
+        print("i am in ",self.Class)
+ob = student()
+ob.display()
+
+#program 2:
+
+#instance variable and instance method
+class student:
+    #the below block is define attribute
+    def __init__(self):  #this is special method called constructor
+        self.name = "ganesh"
+        self.age = 19
+        self.Class = "12th"
+        #the block is define method
+
+    def display(self):       #this is an instance method
+        print("my name is",self.name)
+        print("my age is",self.age)
+        print("i am in ",self.Class)
+
+ob = student()     #create an instance to student class
+ob.display()       #call the method using the instance
+
+#program 3: python program to unnderstand instance variable
+
+class Sample:
+    def __init__(self):
+        self.x = 10
+    def modify(self):
+        self.x +=1
+a=Sample()
+b=Sample()
+print("x",a.x)
+print("x",b.x)
+a.modify()
+print("x",a.x)
+print("x",b.x)
+
+print('------------emplyee -----------------')
+
+class Employee:
+    def __init__(self,id,name,salary,exp):
+        self.id = id
+        self.name = name
+        self.salary = salary
+        self.exp = exp
+    def display(self):
+        print("emplyee id is",self.id)
+        print("emplyee name is ",self.name)
+        print("emplyee salary is",self.salary)
+        print("emplyee exp is",self.exp)
+
+ob=Employee(100,"john",45000,3)
+ob.display()
+
+class Student:
+    def __init__(self,n = ''):
+        self.name = n
+        #self.marks = m
+    def display(self):
+        print("hello",self.name)
+        #print("your marks is",self.marks)
+    def marksheet(self,p,c,m,b,e):
+        self.pysics=p
+        self.chemistry=c
+        self.maths=m
+        self.biology=b
+        self.english=e
+        self.t = p+c+m+b+e
+        print("your total Marks is :",self.t)
+        self.percentage = self.t/500*100
+        if (self.percentage <=  100 and self.percentage >= 75):
+            print("you got first grade")
+        elif (self.percentage <= 75 and self.percentage >= 65 ):
+            print("you have got second grade")
+        elif(self.percentage <= 65 and self.percentage >= 55):
+            print("you have got third grade")
+        elif(self.percentage <=55 and self.percentage >= 45):
+            print("pass")
+        else:
+            print("fail")
+n = int(input("how many student ?"))
+i = 0
+while (i < n):
+    name =  input("Enter name :")
+    p = int(input("enter pysics marks"))
+    c = int(input("enter chemistry marks"))
+    m = int(input("enter maths marks"))
+    b = int(input("enter biology marks"))
+    e = int(input("enter english maths"))
+    ob = Student(name)
+    ob.display()
+    ob.marksheet(p,c,m,b,e)
+    i += 1
+    #print("total marks is :",t)
+'''
+# program new########################################
+
+class Student:
+    def setName(self,name):
+        self.name = name
+    def setMarks(self,marks):
+        self.marks = marks
+    def getName(self):
+        return self.name
+    def getMarks(self):
+        return self.marks
+n= int(input("enter number of student"))
+i = 0
+while(i < n):
+    s = Student()
+    name = (input("enter student name:"))
+    marks = int(input("enter marks:"))
+    s.getName()
+    s.setName(name)
+    s.setMarks(marks)
+    print("hi",s.setName(name,marks))
+    print('your marks is',s.getName())
+    i += 1
+
+
+'''
+class Bird:
+    wings = 2
+    def fly(cls,name):
+        print("{} flies with {} wings".format(name,cls.wings))
+ob=Bird()
+ob.fly("parrot")
+ob.fly("pigeon")
+
+class Animals:
+    legs = 4
+    def walk(cls,name):
+        print("{} walking in {} legs".format(name,cls.legs))
+ob = Animals()
+ob.walk("lion")
+ob.walk("tiger")
+ob.walk("cow")
+
+print("----------------withdraw and deposite programe------------------------")
+import sys
+class Bank:
+    def __init__(self,name,balance = 0.0):
+        self.name = name
+        self.balance = balance
+    def deposit(self,amount):
+        self.balance += amount
+        return self.balance
+    def withdraw(self,amount):
+        if amount > self.balance:
+            print("balance amount is less,so no withdraw.")
+        else:
+            self.balance -= amount
+        return self.balance
+name = input("enter name is")
+while(True):
+    print('d - deposit,w - withdraw, e - exit')
+    choice = input("enter your choice")
+    if choice == 'e' or choice == 'E':
+        sys.exit()
+    amt = float(input("enter amount: "))
+    if choice =='d' or choice =='D':
+        print('print balance after deposit')
+    elif choice == 'w' or choice == 'W':
+        print("blance after withdraw")
+ob = ob=Bank(name)
+ob.withdra(amt)
+ob.deposit(amt)
+
+print("------python program with date of birth within person class-------")
+
+class Person:
+    def __init__(self):
+        self.name = "john"
+        self.db = self.Dob()
+    def display(self):
+        print("name=",self.name)
+    class Dob:
+        def __init__(self):
+            self.dd = 4
+            self.mm = 2
+            self.yy = 1995
+        def display(self):
+            print("Dob = {}/{}/{}".format(self.dd,self.mm,self.yy))
+a = Person()
+a.display()
+b = a.db
+b.display()
+
+print("----------------date of birth------")
+
+class Student:
+    def __init__(self):
+        self.name = "Rocky"
+        self.db = self.Dob()
+    def display(self):
+        print("hi ",self.name)
+    class Dob:
+        def __init__(self):
+            self.dd = 10
+            self.mm = 5
+            self.yy = 2000
+        def display(self):
+            print("your Dob is = {}/{}/{}".format(self.dd,self.mm,self.yy))
+ob= Student()
+ob.display()
+ob1 = ob.db
+ob1.display()
+
+print("--------emplyee details ---------------")
+
+class Employee:
+    #this is consructor
+    def __init__(self,id,name,salary,expe):
+        self.id = id
+        self.name = name
+        self.salary = salary
+        self.expe = expe
+    def display(self):
+        print("Employee id is:",self.id)
+        print("Employee Name is:",self.name)
+        print("Employee Salary is:",self.salary)
+        print("Employee Experience is:",self.expe)
+class Myclass:
+    def mymethod(e):
+        e.salary += 10000
+        e.display()
+e = Employee(100,"john",45000,3)
+Myclass.mymethod(e)
+
+print("--------------Example for static method---------")
+
+print("pytho programm to calculate power value of a number with the help of a static method")
+
+class Myclass:
+    def mymethod(x,n):
+        result = x**n
+        #print("{} to the power of {} is {} ".format(x,n,result))
+        print("{} power {} is {}".format(x,n,result))
+
+Myclass.mymethod(5,1)
+Myclass.mymethod(5,2)
+Myclass.mymethod(5,3)
+Myclass.mymethod(5,4)
+Myclass.mymethod(5,5)
+Myclass.mymethod(5,6)
+Myclass.mymethod(5,7)
+Myclass.mymethod(5,8)
+Myclass.mymethod(5,9)
+Myclass.mymethod(5,10)
+
+class Mobile:
+    def __init__(self):
+        self.model = "Nokia"
+        self.price = 20000
+        print("model Name: ",self.model)
+        print("mobile price: ",self.price)
+ob = Mobile()
+
+print("---------------positional arguments------")
+
+class Add:
+    def __init__(self,name,age):
+        self.name = name
+        self.age = age
+    def display(self):
+        print(self.name)
+        print(self.age)
+a = Add("john",21)
+a.display()
+
+print("----------default arguments---------")
+
+def add(x,y=20):
+    c = x+y
+    print("addition",c)
+add(10)
+
+print("-----------keywords arguments--------------")
+
+def person(name,age,gender):
+    print("my name is : ",name)
+    print("my age is : ",age)
+    print("i am : ",gender)
+person(name="shinu",age=25,gender="male")
+
+class Mobile:
+    def __init__(self,m,v=80):
+        self.model = m
+        self.volumn = v
+    def display(self,p):
+        self.price = p
+        print('model: ',self.model)
+        print("volumn : ",self.volumn)
+        print("price of mobile : ",self.price)
+ob = Mobile("nokia",100)
+ob.display(20000)
+
+print("------------encapsulation program---------------")
+
+class Abc:
+    def getvalue(self,x):
+        self.a = x
+    def fun(self):
+        print(self.a)
+ob = Abc()
+ob.getvalue(100)
+ob.fun()
+
+print("-----protected and private member-----------")
+
+class Super:
+    def __init__(self):
+        self._value1 = 100
+        self.__value2 = 200
+    def display(self):
+        print(self._value1)
+        print(self.__value2)
+class Sub(Super):
+    def show(self):
+        print(self._value1)
+        print(self.__value2)
+
+ob = Sub()
+ob.show()
+
+print("-----------Abstraction -------------------")
+
+from abc import ABC,abstractmethod
+class Shape(ABC):
+    @abstractmethod
+    def area(self):
+        pass
+
+class Circle(Shape):
+    def area(self,r):
+        self.radius = r
+        print("Area of circle is :",3.14*r*r)
+
+class Square(Shape):
+    def area(self,l):
+        self.length = l
+        print("Area of square",l*l)
+
+c1 = Circle()
+c1.area(4)
+s1=Square()
+s1.area(6)
+
+'''
+ feature os object oriented programming system
+1. class and object
+2. Encapsulation 
+3. Abstraction
+4. Inheritance
+5. Polymorphism
+
+
+'''
+
+print("--------------------metho overloadong----------")
+
+class Sumation:
+    def calculation(self,x = None, y = None):
+        if x == None and y == None:
+            print("Welcome python prograamm")
+            print("thanks for visit")
+        elif x != None and y == None:
+            f=1
+            for i in range(1,x+1):
+                f = f*i
+            print(f)
+        else:
+            print("addition",x+y)
+
+ob=Sumation()
+ob.calculation()
+ob.calculation(5)
+ob.calculation(100,200)
+
+print("----------over riding----------")
+
+class A:
+    def add(self):
+        print("hii")
+class B(A):
+    def add(self):
+        print("hello")
+    def xyz(self):
+        print("good morning")
+
+ob = A()
+ob1 = B()
+ob.add()
+ob1.add()
+ob1.xyz()
+
+print("--------------------------------control statement-----------------------------------")
+print("----------break/ continue / pass---------------")
+
+for i in range(1,10):
+    if i == 5:
+        break
+        print(i)
+
+for i in range(1,10):
+    if i == 6:
+        continue
+        print(i)
+        i += 1
+
+str1 = "python"
+for i in str1:
+    if i == 'h':
+        break
+        print(i)
+
+
+import copy
+l = [[1,2],[3,4]]
+a = copy.deepcopy(l)
+print(a)
+
+a[0][0] = 12
+print(a)
+
+n = [m for m in range(1,101) if m % 2 == 0 or m % 3 ==0]
+print(n)
+
+
+print("------------------------------------------progranm practice-------------------------")
+
+
+print("--------------using lambda function--------------")
+
+a = lambda x: x*2
+print(a(25))
+
+a = lambda y: y**2
+print(a(5))
+
+a = lambda z:print(z**2)
+a(8)
+a(12)
+a(13)
+a(100)
+
+a = lambda p,r,y: print("simple intrest",p*r*y/100)
+a(20000,8.10,3)
+
+
+p=int(input("enter principle"))
+r=int(input("enter rate of intrest"))
+y= int(input("enter year"))
+a = lambda p,r,y: print("simple intrest",p*r*y/100)
+a(p,r,y)
+
+p=int(input("enter principle"))
+r=int(input("enter rate of intrest"))
+y= int(input("enter year"))
+a = lambda p,r,y: p*r*y/100
+print("simple intrest",a(p,r,y))
+
+
+print('-------------lambda using def funtion--------------')
+
+def sumation(a,b,c):
+    return lambda x: a*x**2+b*x+c
+a=sumation(10,5,2)
+print(a(20))
+print(a(10))
+print(a(5))
+print(a(2))
+
+print("-----------lambda function( map,filter,reduce)----------------")
+print("----map-------")
+a = (2,4,6,8,10)
+result = map(lambda x: x+x,a)
+print(list(result))
+
+a=(1,2,3,4,5,6)
+b=(1,2,3,4,5,6)
+result=map(lambda x,y: x+y,a,b)
+print(list(result))
+
+a = [1,2,3,4,5]
+result = map(lambda x: x,a)
+print(list(result))
+
+a = (1,2,3,4,5)
+b = (9,8,7,6,5)
+c = (1,2,3,4,5)
+result = map(lambda x,y,z: x+y+z,a,b,c)
+print(list(result))
+
+print("==============map in list-------------------")
+l = ['cat','bat','mat','rat']
+result = list(map(list,l))
+print(result)
+
+print("----------map in list add two list-----------")
+
+l = ['cat','bat','mat','rat']
+m = ['hat','cat','nat','eat']
+result= list(map(list,l+m))
+print(result)
+
+import functools
+
+lis = [1, 3, 5, 6, 2, ]
+#print("The sum of the list elements is : ", end="")
+
+a = functools.reduce(lambda x,y: x+y,lis)
+print(a)
+#print(functools.reduce(lambda a, b: a + b, lis))
 
 
 
+seq = [0, 1, 2, 3, 5, 8, 13]
+result = filter(lambda x: x % 2 != 0, seq)
+print(list(result))
+result = filter(lambda x: x % 2 == 0, seq)
+print(list(result))
 
+
+print("//////////////////////////////////////////////////////////////////")
+
+print("-----------------find odd/even number----------")
+
+odd = []
+even = []
+for i in range(1, 101):
+    if i%2 == 0:
+        even.append(i)
+        if len(even) == 20:
+            break
+    else:
+        odd.append(i)
+        if len(odd) == 20:
+            break
+print(odd, even)
+
+print("/////////////////////////////////////////////////////////////////////////////////")
+
+print("-------------------to check perfect square---------------------------")
+
+import math
+
+num = int(input("Enter number:"))
+root = math.sqrt(num)
+if int(root + 0.5) ** 2 == num:
+    print(num, "is a perfect square")
+else:
+    print(num, "is not a perfect square ")
+
+print("--------------divisible by 3 check---------------")
+a = int(input("Enter your number:"))
+if a % 3 == 0:
+    print("divisible by 3")
+else:
+    print("not divisible by 3")
+
+
+print("---------add/multiplication using function----------")
+def add(*a):
+    total=0
+    for i in a:
+        total=total+i
+        print("sum:",total)
+add(1,2,3,10,15,20,100,110)
+
+
+def mult(*a):
+    total=1
+    for i in a:
+        total=total*i
+        print("summation:",total)
+mult(1,2,3,10,15,20,100,110)
+
+print("------------------------------factorial find--------------------------")
+
+n=int(input("Enter factorial number:"))
+if (n == 0 or n == 1):
+    print(1)
+else:
+    fac = 1
+    for i in range(1, n + 1):
+        fac = fac * i
+    print(fac)
+
+
+print("--------------------------------control statement-----------------------------------")
+print("----------break/ continue / pass---------------")
+
+for i in range(1,10):
+    if i == 5:
+        break
+        print(i)
+
+for i in range(1,10):
+    if i == 6:
+        continue
+        print(i)
+        i += 1
+
+
+print("------------- *arg / non keyword arguments------------")
+
+def myfun(*args):
+    for i in args:
+        print(i)
+myfun("hello ","VN2 solution pvt ltd")
+
+print("-------------- **karg / keyword arguments")
+
+def myFun(**kwargs):
+    for key, value in kwargs.items():
+        print("%s == %s" % (key, value))
+# Driver code
+myFun(first='Ganesh', mid='Subhash', last='Topale')
+
+l = "python"
+a = l.split()
+print(a)
+
+
+'''
+
+Instructions:
+---------------
+	1. Use proper namaing conventions
+	2. Use pep8 standards
+	3. Write readable and clean code
+	4. Where ever required use functions,oops,exception hanlding etc.,
+	5. Give detailed comments if required
+	6. Write all programs in one .py file
+
+	For ex:
+
+	EID_Name.py
+	------------
+	print("--------------Program 1-------------------")
+	print(" ------Get ODD NUMBERS -----")
+	print(" ------- 1.a. List Comprehension ------ ")
+		code
+	print(" ------- 1.b. Normal For Loop -------")
+		code
+	print(" ------- 1.c. Generator mechanism ----")
+		code
+
+After writing program, write your own explanation for each problem.
+
+
+1. Implement palindrome using iterator(for loop) and generator mechanism.
+
+2. Sum of 2 digits into output
+		n1 = 1234 # int(input("Enter number1 :" ))
+		n2 = 9999 # int(input("Enter number2 :" ))
+		Output: 9+1 2+9 3+9 4+9
+		         10 + 11 + 12 + 13
+				 46
+
+3. st = "ab@#cd!ef"
+   Reverse string considering only alphabets. Symobls should not be reversed
+   # Output: fe@#dc!ba
+
+4. some_list = ["a", "b", "c", "d", "n", "a", "b", "m", "n", "m"]
+   #findout elements duplicate count output in  dict format
+
+
+5. # t1 = (1, 2, 3, "a", "c")
+   # t2 = ("b", "d", 9, 8, 7)
+   # Output: (10,10,10,"ab","cd")
+
+6  #Write a Python program to remove leading zeros from an IP address.
+			  inp = "216.08.094.196"
+			# o/p =  216.8.94.196
+
+7. l = [1, 2, [3, 4, [5, 6]], 7, 8, [9, [10]]]
+   #output= [1,2,3,4,5,6,7,8,9,10]
+
+8. Load sample content in text file.
+   Read data and find
+    1. No of lines in file
+	2. No of words in each line
+	3. No of chars in each line
+	4. No of vowels and consonants
+	5. No of special chars linewise and total
+
+'''
+
+print("////////////////////////////////////////////////////////////////////////////////////////////////////")
+
+print(" ------- 1.a. List Comprehension ------ ")
+
+def palindrome(s):
+    for i in range(0,len(s)-1):
+        if s[i] == s[i][::-1]:
+            return s[i]
+words = ['foof','boom']
+print(palindrome(words))
+
+print("1. (b) Implement palindrome using iterator(for loop) and generator mechanism.")
+
+number = input("Enter any number :")
+i=0
+for i in range(len(number)):
+    if number[i]!=number[-1-i]:
+        print('It is not a palindrome')
+        break
+    else:
+        print('It is a palindrome')
+        break
+
+print(" ------- 1.c. Generator mechanism ---------------------")
+
+print("////////////////////////////////////////////////////////////////////////////////////////")
+
+print(''' Sum of 2 digits into output
+		n1 = 1234 # int(input("Enter number1 :" ))
+		n2 = 9999 # int(input("Enter number2 :" ))
+		Output: 9+1 2+9 3+9 4+9
+		         10 + 11 + 12 + 13
+				 46
+''')
+
+n1 = 1234
+n2 = 9999
+def add(n1,n2):
+    l1 =[]
+    l2 = []
+    l3 = []
+    result=[]
+    strn1 =str(n1)
+    strn2 =str(n2)
+    for i in strn1:
+        l1.append(int(i))
+    for j in strn2:
+        l2.append(int(j))
+    for (x,y) in zip(l1,l2):
+        result.append(x+y)
+        print(result)
+
+add(n1,n2)
+
+print("/////////////////////////////////////////////////////////////////////////////////")
+
+print("--3.  #Reverse string considering only alphabets. Symobls should not be reversed")
+
+strSample = "ab@#cd!ef"
+# convert string into list
+listSample = list(strSample)
+
+i = 0
+j = len(listSample) - 1
+
+while i < j:
+    if not listSample[i].isalpha():
+        i += 1
+    elif not listSample[j].isalpha():
+        j -= 1
+    else:
+        listSample[i], listSample[j] = listSample[j], listSample[i]
+        i += 1
+        j -= 1
+strOut = ''.join(listSample)
+print(strOut)
+
+print("///////////////////////////////////////////////////////////////////////////")
+
+print('''4. some_list = ["a", "b", "c", "d", "n", "a", "b", "m", "n", "m"] #findout elements duplicate count output in  dict format''')
+
+def getDuplicatesWithCount(listOfElems):
+    dictOfElems = dict()
+    # Iterate over each element in list
+    for elem in listOfElems:
+        if elem in dictOfElems:
+            dictOfElems[elem] += 1
+        else:
+            dictOfElems[elem] = 1
+    dictOfElems = {key: value for key, value in dictOfElems.items() if value > 1}
+
+    return dictOfElems
+# List of strings
+listOfElems = ["a", "b", "c", "d", "n", "a", "b", "m", "n", "m"]
+dictOfElems = getDuplicatesWithCount(listOfElems)
+for key, value in dictOfElems.items():
+    print(({key :value}))
+
+print("////////////////////////////////////////////////////////////////////////////////////////////")
+
+print('''5. # t1 = (1, 2, 3, "a", "c")
+   # t2 = ("b", "d", 9, 8, 7)
+   # Output: (10,10,10,"ab","cd")''')
+
+t1 = (1,2,3,'a','c')
+t2 = (9,8,7,'b','d')
+a = list(t1)
+b = list(t2)
+c = print(a)
+d = print(b)
+result=map(lambda x,y: x+y,a,b)
+print(list(result))
+
+print("///////////////////////////////////////////////////////////////////////////////////////")
+
+print('''6  #Write a Python program to remove leading zeros from an IP address.
+			  inp = "216.08.094.196"
+			# o/p =  216.8.94.196''')
+
+str1 = "216.08.094.196"
+list1 = []
+for i in str1:
+    if i != "0":
+        list1.append(i)
+strr = ''.join(list1)
+print(strr)
+
+print("/////////////////////////////////////////////////////////////////////////")
+
+print('''7. l = [1, 2, [3, 4, [5, 6]], 7, 8, [9, [10]]]
+   #output= [1,2,3,4,5,6,7,8,9,10] ''')
+
+
+l = [1, 2, [3, 4, [5, 6]], 7, 8, [9, [10]]]
+output=[]
+final_out=[]
+for item in l:
+    if type(item)==list:
+        output.extend(item)
+    else:
+        output.append(item)
+for item2 in output:
+    if type(item2)==list:
+        final_out.extend(item2)
+    else:
+        final_out.append(item2)
+print(final_out)
+
+print("////////////////////////////////////////////////////////////////////////////////")
+
+print('''8. Load sample content in text file.
+   Read data and find
+    1. No of lines in file
+	2. No of words in each line
+	3. No of chars in each line
+	4. No of vowels and consonants
+	5. No of special chars linewise and total ''')
+
+
+
+string = '''Moving to a new country and starting over is always appealing.\n
+          The idea of meeting different people, traveling to places you’ve never been before,\n
+          and learning a new culture seems exciting and enjoyable.'''
+
+print(" ---------------------1. No of lines in file-----------------")
+count = len(string.split("\n"))
+
+print(string.split("\n"))
+print(count)
+
+print("---------------2. No of words in each line-------------")
+
+a = " my name is Ganesh"
+print(len(a))
+
+print('''	3. No of chars in each line''')
+
+b = " my name is ganesh i am from nagpur"
+c = b.split(" ")
+print(len(c))
+
+print("--------------4. No of vowels and consonants-------------------")
+
+def Check_Vow(string, vowels):
+    final = [each for each in string if each in vowels]
+    print(len(final))
+    print(final)
+string = " my name is Ganesh. and i am from nagpur"
+vowels = "AaEeIiOoUu"
+Check_Vow(string, vowels)
+
+print("--------------5. No of special chars linewise and total--------------")
+
+
+def count_special_character(string):
+    special_char = 0
+
+    for i in range(0, len(string)):
+        ch = string[i]
+        if (string[i].isalpha()):
+            continue
+        elif (string[i].isdigit()):
+            continue
+
+        else:
+            special_char += 1
+    if special_char >= 1:
+        print(" {} Special Character in this string  ".format(special_char))
+    else:
+        print("There are no Special Characters in this String.")
+if __name__ == '__main__':
+    string = "vn2%^solution&*@$python"
+    count_special_character(string)
 
 
